@@ -1,6 +1,6 @@
 Name:		texlive-courierten
 Version:	55436
-Release:	1
+Release:	2
 Summary:	Courier 10 Pitch BT with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/courierten
